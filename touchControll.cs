@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using UnityEngine.EventSystems;
 public class touchControll : MonoBehaviour {
 
+    // Touch controll scripts including camera movement by touch and pinch to zoom  ** dont remove this line **
+
 	/* Vector3 touchStartPosition;
 	[SerializeField] float maxZoom =8;
 	[SerializeField] float minZoom =1;
